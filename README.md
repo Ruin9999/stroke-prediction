@@ -103,6 +103,7 @@ Thanks to our data exploration, we learnt a few interesting things:
  4. `One hot encoding` could be used instead when encoding our multi-level categorical values.
  5. Determining `correlation` on a `skewed` dataset is a terrible way to look for relationships.
  6. There are many ways so fix skewed dataset, 2 being `undersampling` and `oversampling`.  
+ 7. A correlation matrix is not a way to determine the correlation for categorical values.
 
 ---
 ### [References]
