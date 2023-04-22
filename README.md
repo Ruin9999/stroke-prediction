@@ -54,7 +54,7 @@ To prepare our data for our machine learning models, we did these few steps:
 
 ---
 ### Data Analysis
-Looking at the correlations between our features and output, we realize that there were a few variables with a correlation. Those features being:
+After doing Exploratory Data Analysis we see that there are 5 variables that have a correlation with stroke:
   1. `Age`
   2. `Hypertension`
   3. `Heart Disease`
