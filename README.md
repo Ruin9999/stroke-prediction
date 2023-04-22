@@ -61,6 +61,7 @@ After doing Exploratory Data Analysis we see that there are 5 variables that hav
   4. `Ever Married`
   5.  `Average Glucose Level`
 
+Taking a look at our correlation matrix can help confirm our conclusions for our numerical values.
 ![Correlation Matrix](./images/correlationmatrix.png)
 
 ---
