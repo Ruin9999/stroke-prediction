@@ -2,10 +2,10 @@
 
 <div>
   <p>
-    <span style="padding: 0px"> Nanyang Technological University </span>
-    <span style="padding: 0px"> School of Computer Science and Engineering </span>
-    <span style="padding: 0px"> Lab B133 </span>
-    <span style="padding: 0px"> Team 10 </span>
+    <p style="padding: 0px"> Nanyang Technological University </p>
+    <p style="padding: 0px"> School of Computer Science and Engineering </p>
+    <p style="padding: 0px"> Lab B133 </p>
+    <p style="padding: 0px"> Team 10 </p>
   </p>
   
   <p>
