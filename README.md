@@ -6,8 +6,11 @@
  Team: 10  
 
 Members:
-  1. Yong Shun Jie (@Ruin9999)
+  1. Yong Shun Jie (@Ruin9999) 
   2. Wu Wei Jie (@Weitucky)
+  
+Work was split 50/50 between both of us. 
+
 ---
 ### Description 
 This repo contains all the material used for our SC1015 Data Science and Artificial Intelligence Module.  
